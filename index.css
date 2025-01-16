@@ -1,0 +1,20 @@
+/* Custom CSS for black theme */
+body {
+  background-color:#120924;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+/* Stars */
+#canvas {
+    display: block;
+    position: fixed;  /* Cover the viewport */
+    top: 0;
+    left: 0;
+    width: 100vw;  /* 100% of the viewport width */
+    height: 100vh; /* 100% of the viewport height */
+    
+    pointer-events: none; /* Prevents canvas from interfering with interactions */
+}
+
