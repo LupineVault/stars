@@ -1,2 +1,2 @@
 # stars
-easy stars background with html, js, and css
+LupineVault star background taken from [Shadow Tunnel](https://shadowtunnel.vercel.app/)
